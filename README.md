@@ -2,16 +2,16 @@
  # Hello, I'm Rafael Caballero
 <a href="https://linkedin.com/in/rafacablr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Intro
+-## Intro
 
 I am a working in a help desk role with a profound interest in technology and a dedication to solving complex problems.
 
-## Objective
+-## Objective
 
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+-## Skills
 Microsoft Office Suite, Help Desk, Ticketing System, Azure, Network Security Groups, Firewalls, ACLs (Access Control Lists), 
 Virtual Machines, Virtual Private Networks, Cloud Computing, Active Directory, File Permissions, Windows 10, SIEM, Sentinel,
 Power shell,automation and cryptography 
