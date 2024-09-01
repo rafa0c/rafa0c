@@ -57,5 +57,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/rafa0c/Detecrtion-lab">Detection Lab</a>
+- <a href="https://github.com/rafa0c/Detecrtion-lab">Azure Detection Lab</a>
 - SOC Automation Project
