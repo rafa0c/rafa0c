@@ -25,7 +25,7 @@ Power shell,automation and cryptography
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/rafa0c/Detecrtion-lab">Azure Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">SOC Automation Project</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://google.com"> cyber security  & Active Directory home lab /a> |
+| Scripting and Automation for Threat Mitigation | <a href="https://google.com"> cyber security  & Active Directory home lab < /a> |
 <!--
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
