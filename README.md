@@ -2,22 +2,21 @@
  # Hello, I'm Rafael Caballero
 <a href="https://linkedin.com/in/rafacablr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
- ## Projects 
+ ## 👋 Introduction
+
+ I am a working in a help desk role with a profound interest in technology and a dedication to solving complex problems.
  
 - <a href="https://github.com/rafa0c/Detecrtion-lab">Azure Detection Lab</a>
 - <a href="https://github.com/rafa0c/Detecrtion-lab">SOC Automation Project</a>
 - <a href="https://github.com/rafa0c/Detecrtion-lab">Active Directory home lab</a>
 
-## Intro
 
-I am a working in a help desk role with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-
+## 🎯 Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## 💻 Skills
+
 Microsoft Office Suite, Help Desk, Ticketing System, Azure, Network Security Groups, Firewalls, ACLs (Access Control Lists), 
 Virtual Machines, Virtual Private Networks, Cloud Computing, Active Directory, File Permissions, Windows 10, SIEM, Sentinel,
 Power shell,automation and cryptography 
@@ -33,7 +32,7 @@ Power shell,automation and cryptography
 | Case Management with TheHive                  | <a href="https://google.com">Detection Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
 -->
-## Tools
+## 🛠️ Tools & Technologies
 
 
 ### Network
@@ -56,15 +55,25 @@ Power shell,automation and cryptography
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+## 📜 Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cyber_security-006400?&style=for-the-badge&logoColor=white" />
 
 
+
+
 </div>
+
+## 📞 Contact Me
+
+Feel free to reach out to me through any of the following platforms:
+
+- 📧 **Email**: [rafacablr@outlook,com](mailto:rafacablr@outlook.com)
+- 💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- 🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 
