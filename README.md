@@ -2,6 +2,11 @@
  # Hello, I'm Rafael Caballero
 <a href="https://linkedin.com/in/rafacablr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## Projects
+- <a href="https://github.com/rafa0c/Detecrtion-lab">Azure Detection Lab</a>
+- SOC Automation Project
+- cyber security home lab
+
 ## Intro
 
 I am a working in a help desk role with a profound interest in technology and a dedication to solving complex problems.
