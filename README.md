@@ -65,6 +65,4 @@ Power shell,automation and cryptography
 
 </div>
 
-## Projects
-- <a href="https://github.com/rafa0c/Detecrtion-lab">Azure Detection Lab</a>
-- SOC Automation Project
+
