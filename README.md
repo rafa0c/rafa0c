@@ -71,7 +71,7 @@ Power shell,automation and cryptography
 
 Feel free to reach out to me through any of the following platforms:
 
-- 📧 **Email**: [rafacablr@outlook,com](mailto:rafacablr@outlook.com)
+- 📧 **Email**: [rafacablr@outlook.com](mailto:rafacablr@outlook.com)
 - 💼 **LinkedIn**: [rafacablr](https://www.linkedin.com/in/rafacablr/)
 - 🐦 **Twitter**: [@rafcablr](https://twitter.com/rafacablr)
 
