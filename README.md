@@ -2,7 +2,7 @@
  # Hello, I'm Rafael Caballero
 <a href="https://linkedin.com/in/rafacablr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2> ## Projects < /h2>
+<h2> Projects < /h2>
 - <a href="https://github.com/rafa0c/Detecrtion-lab">Azure Detection Lab</a>
 - <a href="https://github.com/rafa0c/Detecrtion-lab">SOC Automation Project</a>
 - <a href="https://github.com/rafa0c/Detecrtion-lab">Active Directory home lab</a>
