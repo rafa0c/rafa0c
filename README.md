@@ -4,8 +4,8 @@
 
 ## Projects
 - <a href="https://github.com/rafa0c/Detecrtion-lab">Azure Detection Lab</a>
-- SOC Automation Project
-- Active Directory home lab
+- <a href="https://github.com/rafa0c/Detecrtion-lab">SOC Automation Project</a>
+- <a href="https://github.com/rafa0c/Detecrtion-lab">Active Directory home lab</a>
 
 ## Intro
 
