@@ -5,7 +5,7 @@
 ## Projects
 - <a href="https://github.com/rafa0c/Detecrtion-lab">Azure Detection Lab</a>
 - SOC Automation Project
-- cyber security home lab
+- cyber security  & Active Directory home lab
 
 ## Intro
 
@@ -25,6 +25,7 @@ Power shell,automation and cryptography
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/rafa0c/Detecrtion-lab">Azure Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">SOC Automation Project</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://google.com">| Scripting and Automation for Threat Mitigation 
 <!--
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
