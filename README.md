@@ -1,4 +1,5 @@
 
+
  # Hello, I'm Rafael Caballero
 <a href="https://linkedin.com/in/rafacablr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -59,11 +60,9 @@ Power shell,automation and cryptography
 
 <div>
 <img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-FEMA National Incident Management%20-007ACC?&style=for-the-badge&logo=fema&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cyber_security-006400?&style=for-the-badge&logoColor=white" />
-
-
 
 
 </div>
@@ -73,7 +72,7 @@ Power shell,automation and cryptography
 Feel free to reach out to me through any of the following platforms:
 
 - 📧 **Email**: [rafacablr@outlook,com](mailto:rafacablr@outlook.com)
-- 💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- 💼 **LinkedIn**: [rafacablr](https://www.linkedin.com/in/rafacablr/)
+- 🐦 **Twitter**: [@rafcablr](https://twitter.com/rafacablr)
 
 
