@@ -62,8 +62,14 @@ Power shell,automation and cryptography
 
 <div>
 <img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
+ < /br>
+ < /br>
 <img src="https://img.shields.io/badge/-FEMA National Incident Management%20-007ACC?&style=for-the-badge&logo=fema&logoColor=white" />
+  < /br>
+ < /br>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  < /br>
+ < /br>
 <img src="https://img.shields.io/badge/-Google_Cyber_security-006400?&style=for-the-badge&logoColor=white" />
 
 
