@@ -10,7 +10,7 @@
  ## 🚀 Projects
 
  - <a href="https://github.com/rafa0c/Active-Directory-Home-Lab">Active Directory home lab</a>
- - <a href="https://github.com/rafa0c/Active-Directory-Home-Lab">Python Security scripts</a>
+ - <a href="https://github.com/rafa0c/Python/tree/master">Python Security scripts</a>
  
 <!--
  - <a href="https://github.com/rafa0c/Detection-lab">Azure Detection Lab</a>
