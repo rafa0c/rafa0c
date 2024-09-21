@@ -11,7 +11,7 @@
 
  - <a href="https://github.com/rafa0c/Active-Directory-Home-Lab">Active Directory home lab</a>
  - <a href="https://github.com/rafa0c/Python/tree/master">Python Security scripts</a>
- - <a href="https://github.com/rafa0c/Python/tree/master">PCI DSS Documentation</a>
+ - <a href="https://github.com/rafa0c/Python/tree/master">CIA Triad documentation</a>
  
 <!--
  - <a href="https://github.com/rafa0c/Detection-lab">Azure Detection Lab</a>
