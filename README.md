@@ -12,7 +12,7 @@
  - <a href="https://github.com/rafa0c/Active-Directory-Home-Lab">Active Directory home lab</a>
  - <a href="https://github.com/rafa0c/Python/tree/master">Python Security scripts</a>
  - <a href="https://github.com/rafa0c/CIA-Triad">CIA Triad documentation</a>
- - <a href="https://github.com/rafa0c/CIA-Triad">Nmap to a File</a>
+ - <a href="https://github.com/rafa0c/nmap2file">Nmap to a File</a>
 
   
  
