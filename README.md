@@ -87,7 +87,7 @@ Feel free to reach out to me through any of the following platforms:
 
 - 📧 **Email**: [rafacablr@proton.me](mailto:rafacablr@proton.me)
 - 📱 **Phone**: [+1-512-919-2239](tel:+15129192239)
-- 💼 **LinkedIn**: [rafacablr](https://www.linkedin.com/in/rafacablr/)
+- 💼 **LinkedIn**: [Rafael C.](https://www.linkedin.com/in/rafacablr/)
 - 🐦 **Twitter**: [@rafcablr](https://twitter.com/rafacablr)
 
 
