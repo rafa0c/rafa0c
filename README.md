@@ -15,7 +15,7 @@
  - <a href="https://github.com/rafa0c/SOC-Automation-Lab">SOC Automation Project</a>
 
 
-📄 **Documentation**
+📄 **Cybersecurity Documentation**
  
  - <a href="https://github.com/rafa0c/CIA-Triad">CIA Triad documentation</a>
 
