@@ -12,6 +12,7 @@
  - <a href="https://github.com/rafa0c/Active-Directory-Home-Lab">Active Directory home lab</a>
  - <a href="https://github.com/rafa0c/Python/tree/master">Python Security scripts</a>
  - <a href="https://github.com/rafa0c/nmap2file">Scanning with Nmap</a>
+ - <a href="https://github.com/rafa0c/SOC-Automation-Lab">SOC Automation Project</a>
  - <a href="https://github.com/rafa0c/CIA-Triad">CIA Triad documentation</a>
 
   
