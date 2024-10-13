@@ -17,7 +17,7 @@
 
 - <a href="https://github.com/rafa0c/Python/tree/master">Python Security scripts</a>
 
-📄 **Cybersecurity Documentation**
+ 📒  **Cybersecurity Documentation**
  
  - <a href="https://github.com/rafa0c/CIA-Triad">CIA Triad documentation</a>
 
