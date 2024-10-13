@@ -13,7 +13,7 @@
  - <a href="https://github.com/rafa0c/nmap2file">Scanning with Nmap</a>
  - <a href="https://github.com/rafa0c/SOC-Automation-Lab">SOC Automation Project</a>
  
-📄 **Security Python Scripting**
+🐍  **Security Python Scripting**
 
 - <a href="https://github.com/rafa0c/Python/tree/master">Python Security scripts</a>
 
