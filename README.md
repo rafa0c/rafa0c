@@ -40,7 +40,7 @@ Microsoft Office Suite, Help Desk, Ticketing System, Azure, Network Security Gro
 Virtual Machines, Virtual Private Networks, Cloud Computing, Active Directory, File Permissions, Windows 10, SIEM, Sentinel,
 Power shell,automation and cryptography 
 
-| Skill                                         | Associated Project         |
+| 🛠️ Skill                                         | 📡 Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/rafa0c/Detection-lab">Azure Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/rafa0c/SOC-Automation-Lab">SOC Automation Project</a>|
