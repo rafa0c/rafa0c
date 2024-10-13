@@ -53,7 +53,7 @@ Power shell,automation and cryptography
 | Case Management with TheHive                  | <a href="https://google.com">Detection Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
 -->
-## 🛠️ Tools & Technologies
+## 📊 Tools & Technologies
 
 
 ### 🌐 Network
