@@ -13,6 +13,7 @@
  - <a href="https://github.com/rafa0c/nmap2file">Scanning with Nmap</a>
  - <a href="https://github.com/rafa0c/SOC-Automation-Lab">SOC Automation Project</a>
  - <a href="https://github.com/rafa0c/pi-hole-Network">Pi-Hole network wide ad bloking</a>
+  - <a href="https://">Raspberry Pi 4 NAS w/ Plex server</a>
  
 🐍  **Security Python Scripting**
 
